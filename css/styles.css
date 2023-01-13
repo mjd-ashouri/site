@@ -1,0 +1,51 @@
+body{
+    background-color:#EAF6F6;
+}
+hr{
+    border-style:none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 30%;            
+}
+img:hover{
+    background-color: gold
+    height: 20px;
+}
+h1{
+ color: #66BFBF;
+}
+h2{
+    color: #66BFBF;
+
+}
+h3{
+    color: #66BFBF;
+ 
+}
+h4{
+    color: #66BFBF;
+
+}
+h5{
+    color: #66BFBF;
+
+}
+h6{
+    color: #66BFBF;
+
+}
+/*class*/
+.bacon{
+    background-color: red
+}
+.brpccli{
+    background-color: black
+}
+.circular{
+border-radius: 100%;
+}
+/*id*/
+#heading{
+    background-color: bisque
+}
